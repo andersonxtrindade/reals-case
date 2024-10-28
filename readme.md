@@ -2,13 +2,6 @@
 
 Este é um projeto dividido em duas partes: o backend e o frontend. Abaixo estão as descrições e instruções para cada parte do projeto.
 
-## Estrutura do Projeto
-
-/reals-case └── backend (Laravel 11 com SQLite) /reals-case-frontend └── frontend (Vue.js com Pinia e Tailwind)
-
-markdown
-Copiar código
-
 ## Backend
 
 ### Tecnologias Utilizadas
