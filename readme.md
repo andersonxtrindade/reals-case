@@ -8,6 +8,17 @@ Este é um projeto dividido em duas partes: o backend e o frontend. Abaixo estã
 - **Laravel 11**: Um framework PHP para desenvolvimento de aplicações web.
 - **SQLite**: Um banco de dados leve e portátil.
 
+## Requisitos
+
+### Para o Backend
+- **PHP**: Versão 8.0 ou superior.
+- **Composer**: Ferramenta de gerenciamento de dependências para PHP.
+- **Docker e Docker Compose**: Para facilitar o gerenciamento de containers e serviços.
+
+### Para o Frontend
+- **Node.js**: Versão 14 ou superior.
+- **npm**: Gerenciador de pacotes para Node.js.
+
 ### Configuração do Backend
 
 1. Navegue até a pasta do backend:
