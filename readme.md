@@ -2,8 +2,6 @@
 
 Este é um projeto dividido em duas partes: o backend e o frontend. Abaixo estão as descrições e instruções para cada parte do projeto.
 
-## Backend
-
 ### Tecnologias Utilizadas
 - **Laravel 11**: Um framework PHP para desenvolvimento de aplicações web.
 - **SQLite**: Um banco de dados leve e portátil.
@@ -18,6 +16,8 @@ Este é um projeto dividido em duas partes: o backend e o frontend. Abaixo estã
 ### Para o Frontend
 - **Node.js**: Versão 14 ou superior.
 - **npm**: Gerenciador de pacotes para Node.js.
+
+## Backend
 
 ### Configuração do Backend
 
